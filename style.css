@@ -1,0 +1,27 @@
+h1{
+   
+    margin-top: 125px;
+   
+}
+body
+{
+    margin: 0;
+    text-align: center;
+}
+h2 {
+   
+    margin-top: 20px;
+}
+ #increment {
+
+background-color: salmon;
+width: 150px;
+height: 35px;
+
+
+}
+#save {
+    background-color: skyblue;
+    width: 150px;
+    height: 35px;
+}
